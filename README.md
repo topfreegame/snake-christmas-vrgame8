@@ -3,7 +3,7 @@
 Classic Snake game with **Christmas lights snake body**, **gift food**, and **falling snow**!  
 Eat gifts to grow, avoid walls, chase high scores. Mobile swipe + keyboard.
 
-**Live Demo** → https://yourusername.github.io/snake-christmas-vrgame8/
+**Live Demo** → https://aidu1001.github.io/snake-christmas-vrgame8/
 
 ## Features
 - Snake glows like Christmas lights (green/red/orange segments)
